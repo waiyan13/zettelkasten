@@ -1,0 +1,3 @@
+# Deployment Practices
+
+- [[GitOps]]
