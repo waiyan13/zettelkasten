@@ -39,7 +39,7 @@ conversations exist in the form of four elements supporting the process.
 > - a light to illuminate and guide towards a unified direction
 > - a means to sense the current technical landscape and climate
 
-## A thinking and Recording Tool
+## A Thinking and Recording Tool
 
 Architectural Decision Records (ADRs) includes:
 
@@ -53,6 +53,21 @@ Architectural Decision Records (ADRs) includes:
 
 ADR helps teams learn how to make architecture decisions as a thinking
 checklist to think and have conversations
+
+Challenge the advice from the Process actively in ADR options section
+
+# A Time and Place for Conversations: The Architecture Advisory Forum (AAF)
+
+AAF is a weekly hour-long meeting including representatives from each team with
+experts from conversation checklist. But it is better not to limit to those to
+encourage transparency and openness. The usual agenda is as follows:
+
+- Representatives present *spikes* (probable future decisions) and participants
+reflect with existing knowledge and experience
+- Decisions to be taken recorded in ADR are discussed
+- Re-visit statuses of other decisions (timebox them)
+- Look at [[Four Key Metrics]]
+- Any other business
 
 ## References
 
