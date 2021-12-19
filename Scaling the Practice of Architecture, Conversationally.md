@@ -69,6 +69,15 @@ reflect with existing knowledge and experience
 - Look at [[Four Key Metrics]]
 - Any other business
 
+# A Light to Illuminate: Team-sourced Architectural Principles
+
+A good architectural principle must:
+
+- provide a criteria to evaluate the architecture decisions
+- support business strategic goals
+- describe the consequences/ implications of itself
+- not be too few or too many as a set of principles
+
 ## References
 
 - [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
