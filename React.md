@@ -2,3 +2,4 @@
 
 - [[Elements & components]]
 - [[State & Lifecycle]]
+- [[Performance]]
