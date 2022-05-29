@@ -1,3 +1,0 @@
-# Recommended Practices
-
-- [[Error messages]]

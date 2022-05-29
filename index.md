@@ -3,6 +3,7 @@
 ## Development
 
 - [[1a1|Error Messages]]
+- [[1b|Iteration]]
 
 ## Software Architecture
 - [[2a1|Architecture Decision Record]]
@@ -16,6 +17,7 @@
 ## Deployment
 
 - [[4a1|Four Key Metrics]]
+- [[4b|Gitops]]
 
 ## JavaScript
 
@@ -32,3 +34,19 @@
 
 - [[7a|Unix Philosophy]]
 
+## Python 
+
+- [[9a|ASGI]]
+
+## React
+
+- [[9a|Elements & Components]]
+- [[9b|State & Lifecycle]]
+
+## Networking
+
+- [[11a|SNMP]]
+
+## Personal Finance
+
+- [[12a|money]]

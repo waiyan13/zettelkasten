@@ -1,4 +1,0 @@
-# Development
-
-- [[SDLC]]
-- [[Recommended Practices]]
